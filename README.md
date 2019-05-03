@@ -49,7 +49,7 @@ git clone https://github.com/tejakummarikuntla/f8-talk.git
 	conda create -n yourenvname python=x.x anaconda
 	conda activate f8
 	```
-3. Install a few required packages,
+3. Install few required packages,
     ```
     > conda install -c conda-forge opencv 
     > conda install -c anaconda numpy 
